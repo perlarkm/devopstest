@@ -1,2 +1,3 @@
+Hai this is merge ttest from local repo
 Hai this is test for rebase
 hai this merge conflict test from master
