@@ -1,6 +1,5 @@
 /* Requires the Docker Pipeline plugin */
-pipeline {
-    agent any
+node {
     stages {
         stage('build') {
             steps {
